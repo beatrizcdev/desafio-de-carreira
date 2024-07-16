@@ -8,7 +8,7 @@ Desafio de Carreira Cubos - Beatriz de Castro Medeiros
 
 <body>
  
-<h1> O que irei aprender no módulo 02 - </h1>
+<h1> O que irei aprender no módulo 02? </h1>
  
 <h2> Aprofundamento em Lógica: </h2>
 Aprofundarei meus conhecimentos em lógica de programação
