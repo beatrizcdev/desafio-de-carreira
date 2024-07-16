@@ -45,10 +45,12 @@ utilizada pelas empresas de tecnologia.
  <ul>
   <li>Já cheguei ao curso com conhecimento básico em lógica de programação, html e Java;</li>
   <li>Aprendi no 1º módulo o básico de JavaScript e TypeScript;</li>
+  <li>Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.</li>
+  <li>Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.</li>
   <li>Assim como a importância de organizar minhas redes profissionais como o Linkedin e o Github;</li> 
   <li>Aprendi funções importantes da lógica de programação como Arrays, loops assim como a mexer no git, fazer fork, commits;</li>
   <li>A importância dos commits para os branchs, além de o que significa tudo isso e sua utilização adequada;</li>
-  <li>Estou pronta para mais um módulo e o aprendizafo que nele virá.</li>
+  <li>Estou pronta para mais um módulo e o aprendizado e o que nele virá.</li>
  </p>
 </ul>
 </body>
