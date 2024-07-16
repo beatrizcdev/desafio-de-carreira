@@ -41,6 +41,6 @@ utilizada pelas empresas de tecnologia.
 
 <h1> Qual o meu conhecimento prévio? </h1>
 
-  Já cheguei ao curso com conhecimento básico em lógica de programação e java, Aprendi o básico de javaScript e TypeScript, assim como a importância de organizar minhas redes profissionais como o Linkedin e o Github, Aprendi funções importantes da lógica de programação no primeiro módulo como Arrays, loops assim como a mexer no git, fazer fork, commits e a importância dos commits para os branchs, além de o que significa tudo isso e sua utilização adequada. 
+<p> Já cheguei ao curso com conhecimento básico em lógica de programação e java, Aprendi o básico de javaScript e TypeScript e html, assim como a importância de organizar minhas redes profissionais como o Linkedin e o Github, Aprendi funções importantes da lógica de programação no primeiro módulo como Arrays, loops assim como a mexer no git, fazer fork, commits e a importância dos commits para os branchs, além de o que significa tudo isso e sua utilização adequada. </p>
 
 </body>
