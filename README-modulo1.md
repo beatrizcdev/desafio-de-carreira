@@ -1,6 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <img src="[caminho/para/sua/imagem.jpg](https://camo.githubusercontent.com/ae00021ed8488fa363df12ba3d37abf7b93e43652c67ad33edfc071bb029e17c/68747470733a2f2f692e696d6775722e636f6d2f78473734744f682e706e67)" alt="imagem cubos">
 # Desafio-de-carreira
-Conteúdos a serem trabalhados nesse módulo:
+</head>
+ <body>
+   <p>Conteúdos a serem trabalhados nesse módulo:</p>
 Soft skills
 LinkedIn
 Ética em tecnologia
@@ -31,3 +38,4 @@ Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer lista
 Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
 Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
 Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+</body>
