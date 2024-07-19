@@ -16,6 +16,7 @@
         <li>Introdução a TypeScript</li>
         <li>étodos de strings: Já havia cursado 1 período de análise e desenvolvimento de sistemas então sabia sobre uso de strings</li>
     </ul>
+<br>
 
    <p>O que eu queria aprender sobre os assuntos que foram abordados nesse módulo?</p>
    
