@@ -8,16 +8,17 @@
    <p>Conteúdos a serem trabalhados nesse módulo:</p>
 
    <ul>
-        <li>Soft skills</li>
-        <li>LinkedIn</li>
-        <li>Ética em tecnologia</li>
-        <li>Gestão de tempo</li>
+        <li>Soft skills: sabia que soft skills são habilidades não técnicas necessárias para o desenvolvedor tanto quanto a vida</li>
+        <li>LinkedIn: já tinha uma conta no linkedin e entendia que era uma rede social voltada a trabalho</li>
+        <li>Ética em tecnologia: Tinha noção porém como estou mudando de carreira agora o foco em tecnologia era um ambiente desconhecido</li>
+        <li>Gestão de tempo: Já sabia sobre ferramentas como trello e outras maneiras de gerir meu tempo e a necessidade disso</li>
         <li>Git básico</li>
         <li>Introdução a TypeScript</li>
-        <li>Métodos de strings</li>
-        <li>Métodos de arrays</li>
+        <li>étodos de strings: Já havia cursado 1 período de análise e desenvolvimento de sistemas então sabia sobre uso de strings</li>
     </ul>
-O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+
+   <p>O que eu queria aprender sobre os assuntos que foram abordados nesse módulo?</p>
+   
 Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
 LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
 Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
