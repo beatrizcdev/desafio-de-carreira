@@ -1,21 +1,22 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ![](https://i.imgur.com/xG74tOh.png)
+
+# Meu aprendizado no primeiro módulo
+
 # Desafio-de-carreira
 </head>
- <body>
+<body>
    <p>Conteúdos a serem trabalhados nesse módulo:</p>
-Soft skills
-LinkedIn
-Ética em tecnologia
-Gestão de tempo
-Git básico
-Introdução a TypeScript
-Métodos de strings
-Métodos de arrays
+
+    <ul>
+        <li>Soft skills</li>
+        <li>LinkedIn</li>
+        <li>Ética em tecnologia</li>
+        <li>Gestão de tempo</li>
+        <li>Git básico</li>
+        <li>Introdução a TypeScript</li>
+        <li>Métodos de strings</li>
+        <li>Métodos de arrays</li>
+     </ul>
 O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
 LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
