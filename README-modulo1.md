@@ -7,7 +7,7 @@
 <body>
    <p>Conteúdos a serem trabalhados nesse módulo:</p>
 
-    <ul>
+   <ul>
         <li>Soft skills</li>
         <li>LinkedIn</li>
         <li>Ética em tecnologia</li>
@@ -16,7 +16,7 @@
         <li>Introdução a TypeScript</li>
         <li>Métodos de strings</li>
         <li>Métodos de arrays</li>
-     </ul>
+    </ul>
 O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
 LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
