@@ -38,15 +38,18 @@
    <p>
       <h2>Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?</h2>
    </p>
-   <ul>
       <h3>Linkedin</h3>
       Já possuia um perfil no LinkedIn, mas entendi como melhorar, deixar mais objetivo e focado para o que gostaria.
       <br>
       <h3>Ética em tecnologia</h3>
       Entendi que ética em tecnologia está relacionado a ser responsável com nossas ações, além de mexer com o tópico da segurança.
-Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
-Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
-Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
-Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
-   </ul>
+      <br>
+      <h3>Gerenciamento de tempo</h3>
+      Aprendi estratégias de gerenciamento de tempo, por exemplo como é necessário definir prioridades.
+      <br>
+      <h3>Git básico</h3>
+      Aprendi como instalar, controlar o git e a importância dos versionamentos para um projeto.
+      <br>
+      <h3>Métodos de strings, arrays, typeScript e objetos</h3>
+      Aprendi alguns métodos básicos de strings, métodos de arrays e como lidar com eles, o typescript do zero, assim como a linguagem do java script e que objetos podem melhorar a praticidade das coisas na programação.
 </body>
