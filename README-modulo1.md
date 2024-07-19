@@ -40,8 +40,10 @@
    </p>
    <ul>
       <h3>Linkedin</h3>
-      Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
-Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
+      Já possuia um perfil no LinkedIn, mas entendi como melhorar, deixar mais objetivo e focado para o que gostaria.
+      <br>
+      <h3>Ética em tecnologia</h3>
+      Entendi que ética em tecnologia está relacionado a ser responsável com nossas ações, além de mexer com o tópico da segurança.
 Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
 Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
 Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
