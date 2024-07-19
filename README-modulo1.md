@@ -5,7 +5,9 @@
 # Desafio-de-carreira
 </head>
 <body>
-   <p>Conteúdos a serem trabalhados nesse módulo:</p>
+   <p>
+      <h2>Conteúdos a serem trabalhados nesse módulo:</h2>
+   </p>
 
    <ul>
         <li>Soft skills: sabia que soft skills são habilidades não técnicas necessárias para o desenvolvedor tanto quanto a vida</li>
@@ -18,7 +20,9 @@
     </ul>
 <br>
 
-   <p>O que eu queria aprender sobre os assuntos que foram abordados nesse módulo?</p>
+   <p>
+      <h2>O que eu queria aprender sobre os assuntos que foram abordados nesse módulo?</h2>
+   </p>
 
    <ul>
       <li>LinkedIn: estava ansiosa para entender como usar o linkedin como rede social ao meu favor e configurar corretamente o perfil;        </li>
@@ -31,9 +35,11 @@
   <br>
    
        
-   <p>Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?</p>
+   <p>
+      <h2>Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?</h2>
+   </p>
    <ul>
-      <h2>Linkedin</h2>
+      <h3>Linkedin</h3>
       Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
 Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
 Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
