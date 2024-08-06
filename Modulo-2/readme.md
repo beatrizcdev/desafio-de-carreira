@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# EXEMPLO - Conteúdo modelo no GitHub
+<h1>Desafio de Carreira Módulo 2</h1>
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
